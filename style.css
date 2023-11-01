@@ -3,6 +3,10 @@ h1{
     background-color: azure;
 }
 
+h2{
+    color:green;
+}
+
 p{
     color: red;
     background-color: yellow;
