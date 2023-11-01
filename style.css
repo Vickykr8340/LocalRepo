@@ -3,7 +3,16 @@ h1{
     background-color: azure;
 }
 
+h2{
+    color:green;
+}
+
 p{
     color: red;
     background-color: yellow;
+}
+
+button{
+    color: rgb(165, 244, 8);
+    background-color: antiquewhite;
 }
